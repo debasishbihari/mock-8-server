@@ -10,7 +10,7 @@
         "id":1,
         "username":"dummy",
         "email":"dummy@example.com",
-        "password":"dummy"
+        "pass":"dummy"
       }
     ],
     "recipes":[
